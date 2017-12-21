@@ -1,2 +1,3 @@
 # gittest
-Nothing :)
+This is a useless README :)
+
