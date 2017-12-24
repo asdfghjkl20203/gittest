@@ -1,2 +1,2 @@
-Oh, shit!
+This is a useless README :)
 
