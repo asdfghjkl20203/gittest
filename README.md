@@ -1,2 +1,2 @@
-This is a useless README :)
+This is a useless README.
 
